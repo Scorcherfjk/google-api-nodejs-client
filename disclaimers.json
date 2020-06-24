@@ -76,6 +76,10 @@
     "package": "@google-cloud/game-servers"
   },
   {
+    "api": "bigqueryconnection",
+    "package": "@google-cloud/bigquery-connection"
+  },
+  {
     "api": "bigquerydatatransfer",
     "package": "@google-cloud/bigquery-data-transfer"
   },
